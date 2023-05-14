@@ -1,0 +1,41 @@
+D:\Code C#\Pizza Store Managements\Pizza Store Managements\obj\Debug\Pizza Store Managements.csproj.AssemblyReference.cache
+D:\Code C#\Pizza Store Managements\Pizza Store Managements\obj\Debug\Pizza Store Managements.csproj.SuggestedBindingRedirects.cache
+D:\Code C#\Pizza Store Managements\Pizza Store Managements\obj\Debug\Pizza_Store_Managements.frm_Home.resources
+D:\Code C#\Pizza Store Managements\Pizza Store Managements\obj\Debug\Pizza_Store_Managements.Properties.Resources.resources
+D:\Code C#\Pizza Store Managements\Pizza Store Managements\obj\Debug\Pizza Store Managements.csproj.GenerateResource.cache
+D:\Code C#\Pizza Store Managements\Pizza Store Managements\obj\Debug\Pizza Store Managements.csproj.CoreCompileInputs.cache
+D:\Code C#\Pizza Store Managements\Pizza Store Managements\bin\Debug\Pizza Store Managements.exe.config
+D:\Code C#\Pizza Store Managements\Pizza Store Managements\bin\Debug\Pizza Store Managements.exe
+D:\Code C#\Pizza Store Managements\Pizza Store Managements\bin\Debug\Pizza Store Managements.pdb
+D:\Code C#\Pizza Store Managements\Pizza Store Managements\obj\Debug\Pizza Store Managements.exe
+D:\Code C#\Pizza Store Managements\Pizza Store Managements\obj\Debug\Pizza Store Managements.pdb
+D:\Code C#\Pizza Store Managements\Pizza Store Managements\obj\Debug\Pizza_Store_Managements.frm_DangKy.resources
+D:\Code C#\Pizza Store Managements\Pizza Store Managements\obj\Debug\Pizza_Store_Managements.frm_DangNhap.resources
+D:\Code C#\Pizza Store Managements\Pizza Store Managements\obj\Debug\Pizza_Store_Managements.frm_DoiMatKhau.resources
+D:\Code C#\Pizza Store Managements\Pizza Store Managements\obj\Debug\Pizza_Store_Managements.frm_TaoDonHang.resources
+D:\Code C#\Pizza Store Managements\Pizza Store Managements\obj\Debug\Pizza_Store_Managements.frm_QuanLySanPham.resources
+D:\Code C#\Pizza Store Managements\Pizza Store Managements\obj\Debug\Pizza_Store_Managements.frm_QuanLyNhanVien.resources
+D:\Code C#\Pizza Store Managements\Pizza Store Managements\obj\Debug\Pizza_Store_Managements.frm_TaiKhoanNhanVien.resources
+D:\Code C#\Pizza Store Managements\Pizza Store Managements\obj\Debug\Pizza_Store_Managements.frm_QuanLyLoaiSanPham.resources
+D:\Code C#\Pizza Store Managements\Pizza Store Managements\obj\Debug\Pizza_Store_Managements.frm_GiamGia.resources
+D:\Code C#\Pizza Store Managements\Pizza Store Managements\obj\Debug\Pizza_Store_Managements.frm_QuanLyLichLam.resources
+D:\Code C#\Pizza Store Managements\Pizza Store Managements\obj\Debug\Pizza_Store_Managements.frm_ThongKeDoanhThu.resources
+D:\Code C#\Pizza Store Managements\Pizza Store Managements\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Code C#\Pizza Store Managements\Pizza Store Managements\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Code C#\Pizza Store Managements\Pizza Store Managements\bin\Debug\CrystalDecisions.Shared.dll
+D:\Code C#\Pizza Store Managements\Pizza Store Managements\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Code C#\Pizza Store Managements\Pizza Store Managements\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Code C#\Pizza Store Managements\Pizza Store Managements\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Code C#\Pizza Store Managements\Pizza Store Managements\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Code C#\Pizza Store Managements\Pizza Store Managements\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Code C#\Pizza Store Managements\Pizza Store Managements\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Code C#\Pizza Store Managements\Pizza Store Managements\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Code C#\Pizza Store Managements\Pizza Store Managements\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Code C#\Pizza Store Managements\Pizza Store Managements\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Code C#\Pizza Store Managements\Pizza Store Managements\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Code C#\Pizza Store Managements\Pizza Store Managements\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Code C#\Pizza Store Managements\Pizza Store Managements\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Code C#\Pizza Store Managements\Pizza Store Managements\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Code C#\Pizza Store Managements\Pizza Store Managements\bin\Debug\stdole.dll
+D:\Code C#\Pizza Store Managements\Pizza Store Managements\obj\Debug\Pizza_Store_Managements.report_InHoaDon.resources
+D:\Code C#\Pizza Store Managements\Pizza Store Managements\obj\Debug\Pizza Store Managements.csproj.CopyComplete
